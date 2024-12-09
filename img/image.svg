@@ -1,0 +1,45 @@
+<svg width="1600" height="120" xmlns="http://www.w3.org/2000/svg">  
+    <style>  
+        .circle { fill: none; stroke-width: 3; }  
+        .text { font-family: Arial, sans-serif; font-size: 30px; }  
+    </style>  
+
+    <!-- Projet -->  
+    <circle cx="100" cy="60" r="30" class="circle" stroke="blue"/>  
+    <text x="100" y="65" text-anchor="middle" class="text" fill="black">P</text>  
+
+    <circle cx="170" cy="60" r="30" class="circle" stroke="red"/>  
+    <text x="170" y="65" text-anchor="middle" class="text" fill="black">R</text>  
+
+    <circle cx="240" cy="60" r="30" class="circle" stroke="orange"/>  
+    <text x="240" y="65" text-anchor="middle" class="text" fill="black">O</text>  
+
+    <circle cx="310" cy="60" r="30" class="circle" stroke="blue"/>  
+    <text x="310" y="65" text-anchor="middle" class="text" fill="black">J</text>  
+
+    <circle cx="380" cy="60" r="30" class="circle" stroke="red"/>  
+    <text x="380" y="65" text-anchor="middle" class="text" fill="black">E</text>  
+
+    <circle cx="450" cy="60" r="30" class="circle" stroke="orange"/>  
+    <text x="450" y="65" text-anchor="middle" class="text" fill="black">T</text>  
+
+    <!-- Dev -->  
+    <circle cx="550" cy="60" r="30" class="circle" stroke="orange"/>  
+    <text x="550" y="65" text-anchor="middle" class="text" fill="black">D</text>  
+
+    <circle cx="620" cy="60" r="30" class="circle" stroke="blue"/>  
+    <text x="620" y="65" text-anchor="middle" class="text" fill="black">E</text>  
+
+    <circle cx="690" cy="60" r="30" class="circle" stroke="red"/>  
+    <text x="690" y="65" text-anchor="middle" class="text" fill="black">V</text>  
+
+    <!-- Web -->  
+    <circle cx="790" cy="60" r="30" class="circle" stroke="blue"/>  
+    <text x="790" y="65" text-anchor="middle" class="text" fill="black">W</text>  
+
+    <circle cx="860" cy="60" r="30" class="circle" stroke="red"/>  
+    <text x="860" y="65" text-anchor="middle" class="text" fill="black">E</text>  
+
+    <circle cx="930" cy="60" r="30" class="circle" stroke="orange"/>  
+    <text x="930" y="65" text-anchor="middle" class="text" fill="black">B</text>  
+</svg>
