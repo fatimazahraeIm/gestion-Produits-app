@@ -45,6 +45,4 @@ La base de données utilisée pour ce projet est `products` et contient une tabl
 3. Démarrez Apache et MySQL via le panneau de contrôle XAMPP.
 4. Accédez à l'application via http://localhost/votre-repo.
 5. Accédez à la page principale (main.php)
-"# gestion-Produits-app" 
-"# gestion-Produits-app" 
-"# gestion-Produits-app" 
+
